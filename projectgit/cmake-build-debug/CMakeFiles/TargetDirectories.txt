@@ -1,3 +1,0 @@
-C:/Users/minou/CLionProjects/projectgit/cmake-build-debug/CMakeFiles/projectgit.dir
-C:/Users/minou/CLionProjects/projectgit/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/minou/CLionProjects/projectgit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
